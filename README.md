@@ -1,5 +1,5 @@
 # SurvEvo
-![alt text](https://github.com/abdoush/SurvLossEvo/MSCEsp.png)
+![alt text](https://github.com/abdoush/SurvLossEvo/blob/master/Images/MSCEsp.png)
 
 For each dataset (Nwtco, Flchain, Support), there are 6 notebooks. Run each of them to do the following: 
 
