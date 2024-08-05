@@ -2,9 +2,24 @@
 <img src='./Images/MSCEsp.png'>
 The official repository for the paper "Improving Concordance Index in Regression-based Survival Analysis: Evolutionary Discovery of Loss Function for Neural Networks" accepted at GECCO 2024.
 
+
 ## BibTeX Citation
 ```
-Will be available soon
+@inproceedings{10.1145/3638530.3664129,
+author = {Altarabichi, Mohammed Ghaith and Alabdallah, Abdallah and Pashami, Sepideh and R\"{o}gnvaldsson, Thorsteinn and Nowaczyk, S\l{}awomir and Ohlsson, Mattias},
+title = {Improving Concordance Index in Regression-based Survival Analysis: Evolutionary Discovery of Loss Function for Neural Networks},
+year = {2024},
+isbn = {9798400704956},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3638530.3664129},
+doi = {10.1145/3638530.3664129},
+pages = {1863–1869},
+numpages = {7},
+keywords = {neuroevolution, evolutionary meta-learning, loss function, neural networks, survival analysis, concordance index, genetic algorithms},
+location = {Melbourne, VIC, Australia},
+series = {GECCO '24 Companion}
+}
 ```
 
 
